@@ -1,2 +1,2 @@
 # React + Vite
-react-hook-form,yup,toastify
+react-hook-form,yup,toastify,propTypes
